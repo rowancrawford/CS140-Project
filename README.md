@@ -2,3 +2,6 @@
 ---
 Rowan, Rob, Dan, Amobi, Matt, Jared
 Project for Norwich CS140
+
+**Github Tutorial**
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
